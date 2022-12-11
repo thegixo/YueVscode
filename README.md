@@ -39,23 +39,7 @@ _You can test various syntax highlighting in this repo: [https://github.com/uloc
 
 Following extensions/tools are recommended for this theme:
 
-- [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - For file icons. Used in the screenshot.
-- [Dank Mono](https://dank.sh) - Coding font for 40£. Used in the screenshot.
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Alternative file icons.
-- [Operator Mono](https://www.typography.com/blog/introducing-operator) - Another coding font, if you can spend $200.
-
-Also note the recommended user settings.
-
-```json
-{
-    // Controls the font family.
-    "editor.fontFamily": "Dank Mono",
-    // Enables font ligatures
-    "editor.fontLigatures": true,
-    // Adds icons to files
-    "workbench.iconTheme": "file-icons",
-}
-```
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - For file icons. Used in the screenshot.
 
 ## Installation
 * **Recommended:** This theme is available for free in the Visual Studio Code Marketplace and can be installed by the shortcut <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> and typing `yue`.
