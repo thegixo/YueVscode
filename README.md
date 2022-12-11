@@ -2,36 +2,36 @@
 
 <div align="center" style="text-align: center;">
 
-![logo](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/logotype.png)
+![logo](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/logotype.png)
 
-A Queen Bey-inspired theme for Visual Studio Code.
+A fork of [Yoncé](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-theme) theme by Mina Markham changed to be more coherent with Unreal Engine's theme.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27) <a href="https://www.patreon.com/minamarkham"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="120"></a>
+[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27)
 
 </div>
 
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/editor.png)
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/workbench.png)
-> The font in the screenshot is `Dank Mono`. From £40. https://dank.sh
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/editor.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/workbench.png)
+
 
 <br>
 
 ## Screenshots
 
 #### CSS
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/css.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/css.png)
 
 #### JavaScript/JSX
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/jsx.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/jsx.png)
 
 #### PHP
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/php.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/php.png)
 
 #### Markdown
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/markdown.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/markdown.png)
 
 #### Shell
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/shell.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-vscode/master/images/shell.png)
 
 _You can test various syntax highlighting in this repo: [https://github.com/uloco/syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples)_
 
@@ -58,18 +58,17 @@ Also note the recommended user settings.
 ```
 
 ## Installation
-* **Recommended:** This theme is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?term=yonce&target=vscode&category=Themes&sortBy=Relevance).
-  - It can be installed by the shortcut <kbd>⌘</kbd><kbd>P</kbd> / <kbd>⌃</kbd><kbd>P</kbd> and typing `ext install yonce` or by the shortcut <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> and typing `yonce`.
+* **Recommended:** This theme is available for free in the Visual Studio Code Marketplace and can be installed by the shortcut <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> and typing `yue`.
 * **Alternative method:** Clone this repo inside your `.vscode/extensions` folder.
 
 ## Contributing
 
-Found something strange? Please report [here](https://github.com/minamarkham/yonce-vscode/issues).
+Found something strange? Please report [here](https://github.com/thegixo/yue-vscode/issues).
 
-Love this theme? Put some respeck on my check. Or [pay me in cupcakes](https://cash.me/$MinaMarkham).
+Love this theme? [Pay Mina Markham in cupcakes](https://cash.me/$MinaMarkham).
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/minamarkham/yonce-vscode/blob/master/LICENSE).
+This theme is released under the [MIT License](https://github.com/thegixo/yue-vscode/blob/master/LICENSE).
 
-Designed with ❤️ by **[Mina](https://github.com/minamarkham)**
+Re-designed by **[Gixo](https://github.com/thegixo)**
