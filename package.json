@@ -2,14 +2,14 @@
     "name": "yue-theme",
     "displayName": "Yue",
     "description": "Vibrant syntax theme on a dark, flat UI. Forked from Yoncé theme.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "gixo",
     "author": {
         "name": "Gixo",
         "url": "https://github.com/thegixo"
     },
     "icon": "images/logo.png",
-    "preview": true,
+    "preview": false,
     "galleryBanner": {
         "color": "#1c1c1c",
         "theme": "dark"

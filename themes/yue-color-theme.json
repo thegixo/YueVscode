@@ -1,7 +1,7 @@
 {
-    "name":"Yoncé",
-    "type":"dark",
-    "colors":{
+    "name": "Yoncé",
+    "type": "dark",
+    "colors": {
         "activityBar.background": "#1C1C1C",
         "activityBar.border": "#272727",
         "activityBar.foreground": "#AAAAAA",
@@ -122,9 +122,9 @@
         "pickerGroup.foreground": "#0070e0",
         "progressBar.background": "#0070e0",
         "scrollbar.shadow": "#1C1C1C",
-        "scrollbarSlider.activeBackground": "#272727",
-        "scrollbarSlider.background": "#06080E4A",
-        "scrollbarSlider.hoverBackground": "#272727",
+        "scrollbarSlider.activeBackground": "#0070e0",
+        "scrollbarSlider.background": "#AAAAAA",
+        "scrollbarSlider.hoverBackground": "#CCCCCC",
         "selection.background": "#0070e07A",
         "settings.checkboxBackground": "#272727",
         "settings.checkboxBorder": "#1C1C1C",
@@ -198,10 +198,10 @@
         "titleBar.inactiveForeground": "#777777",
         "widget.shadow": "#1C1C1C"
     },
-    "tokenColors":[
+    "tokenColors": [
         {
-            "name":"Compiled Italics",
-            "scope":[
+            "name": "Compiled Italics",
+            "scope": [
                 "comment",
                 "entity.other.inherited-class",
                 "entity.other.attribute-name.pseudo-element.css",
@@ -219,34 +219,34 @@
                 "variable.parameter",
                 "variable.argument.css"
             ],
-            "settings":{
-                "fontStyle":"italic"
+            "settings": {
+                "fontStyle": "italic"
             }
         },
         {
-            "name":"Bold",
-            "scope":[
+            "name": "Bold",
+            "scope": [
                 "markup.bold.markdown",
                 "punctuation.definition.bold.markdown"
             ],
-            "settings":{
-                "fontStyle":"bold"
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {
-            "name":"Underline",
-            "scope":[
+            "name": "Underline",
+            "scope": [
                 "entity.name.type",
                 "entity.name.class",
                 "entity.other.inherited-class"
             ],
-            "settings":{
-                "fontStyle":"underline"
+            "settings": {
+                "fontStyle": "underline"
             }
         },
         {
-            "name":"Light Gray",
-            "scope":[
+            "name": "Light Gray",
+            "scope": [
                 "constant.other.table-name.sql",
                 "meta.brace",
                 "meta.structure.dictionary.json",
@@ -271,13 +271,13 @@
                 "variable.parameter",
                 "variable.argument.css"
             ],
-            "settings":{
-                "foreground":"#D4D4D4"
+            "settings": {
+                "foreground": "#D4D4D4"
             }
         },
         {
-            "name":"Bondi Blue",
-            "scope":[
+            "name": "Bondi Blue",
+            "scope": [
                 "meta.object-literal.key.js",
                 "markup.italic",
                 "support.function.builtin",
@@ -285,13 +285,13 @@
                 "storage.type.function",
                 "storage.type"
             ],
-            "settings":{
-                "foreground":"#00A7AA"
+            "settings": {
+                "foreground": "#00A7AA"
             }
         },
         {
-            "name":"Amethyst",
-            "scope":[
+            "name": "Amethyst",
+            "scope": [
                 "constant.numeric",
                 "constant",
                 "entity.other.attribute-name.id.css",
@@ -312,25 +312,25 @@
                 "support.constant",
                 "support.type"
             ],
-            "settings":{
-                "foreground":"#A06FCA"
+            "settings": {
+                "foreground": "#A06FCA"
             }
         },
         {
-            "name":"Nevada",
-            "scope":[
+            "name": "Nevada",
+            "scope": [
                 "comment",
                 "meta.link.inline.markdown",
                 "meta.image.inline.markdown",
                 "markup.underline.link"
             ],
-            "settings":{
-                "foreground":"#696d70"
+            "settings": {
+                "foreground": "#696d70"
             }
         },
         {
-            "name":"Straw",
-            "scope":[
+            "name": "Straw",
+            "scope": [
                 "entity.name.type.js",
                 "entity.name.filename.find-in-files",
                 "markup.quote",
@@ -342,13 +342,13 @@
                 "string.quoted.single.js",
                 "string.quoted.double.js"
             ],
-            "settings":{
-                "foreground":"#E6DB74"
+            "settings": {
+                "foreground": "#E6DB74"
             }
         },
         {
-            "name":"Sushi",
-            "scope":[
+            "name": "Sushi",
+            "scope": [
                 "keyword.type",
                 "meta.brace.square.js",
                 "meta.brace.square.ts",
@@ -357,13 +357,13 @@
                 "string.quoted.docstring",
                 "storage"
             ],
-            "settings":{
-                "foreground":"#98E342"
+            "settings": {
+                "foreground": "#98E342"
             }
         },
         {
-            "name":"Violet Red",
-            "scope":[
+            "name": "Violet Red",
+            "scope": [
                 "constant.character.escape.markdown",
                 "entity.name.class",
                 "entity.name.type",
@@ -393,37 +393,37 @@
                 "support.function",
                 "token.error-token"
             ],
-            "settings":{
-                "foreground":"#FC4384"
+            "settings": {
+                "foreground": "#FC4384"
             }
         },
         {
-            "name":"Sky Magenta",
-            "scope":[
+            "name": "Sky Magenta",
+            "scope": [
                 "constant.other.database-name.sql",
                 "meta.brace",
                 "variable.other.object"
             ],
-            "settings":{
-                "foreground":"#da7dae"
+            "settings": {
+                "foreground": "#da7dae"
             }
         },
         {
-            "name":"Crayon Purple",
-            "scope":[
+            "name": "Crayon Purple",
+            "scope": [
                 "constant.numeric.line-number.find-in-files - match",
                 "keyword.other.alias.sql",
                 "keyword.type",
                 "markup.fenced_code.block.markdown",
                 "meta.functiona.variable.css"
             ],
-            "settings":{
-                "foreground":"#8059a2"
+            "settings": {
+                "foreground": "#8059a2"
             }
         },
         {
-            "name":"Yellow Sea",
-            "scope":[
+            "name": "Yellow Sea",
+            "scope": [
                 "beginning.punctuation.definition.list.markdown",
                 "constant.language.null",
                 "constant.language.boolean.true",
@@ -432,8 +432,8 @@
                 "punctuation.definition.string.css",
                 "string.quoted.double.css"
             ],
-            "settings":{
-                "foreground":"#F39B35"
+            "settings": {
+                "foreground": "#F39B35"
             }
         }
     ]
